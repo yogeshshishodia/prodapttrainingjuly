@@ -14,6 +14,8 @@ public class DemoMain {
 	    
 	    Integer result = demo.addition(15, 10);
 	    System.out.println(result);
+	    
+	    System.out.println(""+"");
 	}
 
 }
